@@ -14,7 +14,9 @@
 
 
 
-```    ./huawei -i input.txt -o output.txt```
+
+    ./huawei -i input.txt -o output.txt
+
 
     工具将会读取输入文件中的华为交换机配置，并生成相应的新华三交换机配置文件。
 
