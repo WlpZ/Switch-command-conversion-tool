@@ -13,7 +13,7 @@ Usage
     Run the tool from the command line, specifying the path to the input file and the desired output file.
 
 
-```bash
+```
 ./huawei -i input.txt -o output.txt
 ```
     The tool will read the configuration from the input file and generate the corresponding configuration file for H3C switches.
